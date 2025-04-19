@@ -5,7 +5,7 @@ excerpt: "App inventor es un entorno de programación que permite crear aplicaci
 date: 2023-11-13
 classes: wide
 header:
-  teaser: /assets/images/htb-writeup-friendzone/friendzone_logo.png
+  teaser: /assets/images/blog/app-inventor/appinventor-logo.jpg
 categories:
   - blog
   - app-inventor
